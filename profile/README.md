@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+✔ We have Great / Fast Support.          <br>
+✔ We are offering everyone our Discord Bot a Free Plan :) <br>
+
+### 🛠 &nbsp;What coding language is Huak Bot made of?
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+
 <!--
 
 **Here are some ideas to get you started:**
